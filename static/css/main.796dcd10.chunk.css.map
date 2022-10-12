@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/styles.css"],"names":[],"mappings":"AAAA,EACE,qBACF,CACA,KACE,4CACF","file":"main.796dcd10.chunk.css","sourcesContent":["* {\r\n  box-sizing: border-box;\r\n}\r\nbody {\r\n  font-family: Verdana, Geneva, Tahoma, sans-serif;\r\n}\r\n"]}
